@@ -1,6 +1,6 @@
 
  Create your own Adventure
-graph TD
+flowchart TD
     A[Start Your Adventure] --> B{Choose Your Path}
     B -->|Go to the Forest| C[You find a mysterious tree.]
     B -->|Explore the Cave| D[You discover hidden treasure.]
