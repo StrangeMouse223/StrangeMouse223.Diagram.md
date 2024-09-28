@@ -1,5 +1,3 @@
-
- Create your own Adventure
 flowchart TD
     A[Start Your Adventure] --> B{Choose Your Path}
     B -->|Go to the Forest| C[You find a mysterious tree.]
