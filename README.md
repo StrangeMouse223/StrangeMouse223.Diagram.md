@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A[Start Your Adventure] --> B{Choose Your Path}
     B -->|Go to the Forest| C[You find a mysterious tree.]
@@ -17,3 +18,4 @@ flowchart TD
     J --> N[You gain a new perspective on life.]
     K --> O[You wish for eternal happiness.]
     L --> P[You find a lost city!]
+```
